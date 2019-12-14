@@ -1,0 +1,88 @@
+
+  class sonu{
+ void display(  ) {
+		 System.out.println("upendra pal");
+	 }
+  }
+ class mohan extends sonu{
+	 void display(  ) {
+		 System.out.println("green word"); 
+	 }
+ 
+	
+		 
+			  
+		 
+	 
+		 public static void main(String [] args) {
+		  mohan s1=new mohan();
+		 s1.display();
+		 
+		 
+		
+	
+ 
+ 
+	
+	 
+	
+	
+	
+			
+	}
+	 }
+  
+	 
+  
+
+		
+	
+	
+
+
+
+		
+
+
+	
+	
+	
+		
+		
+		
+		
+	
+
+		
+		
+	
+
+
+
+
+	
+
+
+	
+	
+
+			
+			
+	
+	 
+	
+	 
+		
+	
+		
+
+		  
+		    
+		  
+
+		  
+		    
+		    
+		  
+		
+

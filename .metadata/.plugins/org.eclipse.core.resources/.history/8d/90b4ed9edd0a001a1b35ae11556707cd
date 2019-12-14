@@ -1,0 +1,55 @@
+package program;
+ class loop{
+	 public static void main(String[]args) {
+		 String txt = "upendra pal";
+		   // System.out.println("The length of the txt string is: " + txt.length());
+		    System.out.println(txt.toUpperCase());
+		    System.out.println(txt.toLowerCase());
+	 }
+	
+		   
+			 
+		  
+	 }
+
+	 
+		 
+	 
+
+ 
+	
+		
+
+	
+	
+
+
+
+	 
+	 
+   
+
+
+		  
+		 
+				 
+			 
+
+
+
+		 
+		
+	
+
+		
+	
+		
+		
+
+		
+		
+
+	
+
+
+

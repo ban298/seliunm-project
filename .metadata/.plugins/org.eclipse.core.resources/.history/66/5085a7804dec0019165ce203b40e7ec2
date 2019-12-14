@@ -1,0 +1,24 @@
+
+  class Test2{
+	  
+	  String name;
+	  void display (){
+		  System.out.println("upendra pal");  
+	  }  
+	  
+		
+			
+		
+	
+	  
+	  
+	  public static void main(String[] args)
+	  {
+		  
+		 Test2 t=new Test2();
+		 t.display();
+	  }
+	  
+  }
+  
+	 

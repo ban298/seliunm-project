@@ -1,0 +1,59 @@
+package program;
+interface xyz{
+	 void run() ;
+		//System.out.println("hello word");
+	}
+
+class loop implements xyz{ 
+	 void run(String x,int y) {
+		System.out.println("green world");
+	}
+	public void run() {
+		System.out.println("hello word");
+	}
+	public static void main(String[]args) {
+		//xyz obj=new xyz();
+		loop obj1=new loop();
+		obj1.run("upendra",10);
+		//obj.run("rahul",20);
+	}
+	
+}
+
+ 
+	
+		
+
+	
+	
+
+
+
+	 
+	 
+   
+
+
+		  
+		 
+				 
+			 
+
+
+
+		 
+		
+	
+
+		
+		
+		
+		
+
+		
+		
+
+	
+
+
+

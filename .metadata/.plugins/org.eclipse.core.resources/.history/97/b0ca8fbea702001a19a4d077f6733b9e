@@ -1,0 +1,67 @@
+package program;
+class loop{
+	public loop() {
+		System.out.println("hello word");
+		
+	}
+	public loop(int x) {
+		System.out.println("green word");
+		
+	}
+	public loop(String y) {
+		System.out.println("red word");
+		
+	}
+	public loop(int x,String y) {
+		System.out.println("hello ram");
+		
+	}
+	public loop(String x,String y) {
+		System.out.println("hello ramu");
+	}
+	public static void main(String[]args) {
+		loop a =new loop();
+		loop a1 =new loop(10);
+		loop a2 =new loop("upendra pal");
+		loop a3 =new loop(10 ,"ram");
+		loop a4 =new loop("ramu","mohan pal");
+		
+	}
+}
+ 
+	
+		
+
+	
+	
+
+
+
+	 
+	 
+   
+
+
+		  
+		 
+				 
+			 
+
+
+
+		 
+		
+	
+
+		
+		
+		
+		
+
+		
+		
+
+	
+
+
+

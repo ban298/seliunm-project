@@ -1,0 +1,67 @@
+package program;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+class loop{
+	 public static void main(String[]args) {
+		int i=12;
+		int j=24;
+		//int z=i/ j;
+		System.out.println(i/j);
+		System.out.println(i/j);
+		
+		
+	 }
+			
+	}
+
+
+
+	
+		   
+			 
+		  
+	 
+
+	 
+		 
+	 
+
+ 
+	
+		
+
+	
+	
+
+
+
+	 
+	 
+   
+
+
+		  
+		 
+				 
+			 
+
+
+
+		 
+		
+	
+
+		
+	
+		
+		
+
+		
+		
+
+	
+
+
+

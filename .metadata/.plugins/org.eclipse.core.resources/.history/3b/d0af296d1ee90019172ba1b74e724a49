@@ -1,0 +1,77 @@
+
+  class sonu{
+	public void display() {
+		 System.out.println("good evening");
+	 }
+ }
+ class ram extends sonu{
+	public void display(){
+		 System.out.println("good day"); 
+	 }
+ 
+ 
+	 
+		  
+	 
+ 
+	 public static void main(String[] args) {
+	
+	sonu s1=new ram ();
+
+	s1.display();
+	
+			
+	}
+	 }
+
+		
+	
+	
+
+
+
+		
+
+
+	
+	
+	
+		
+		
+		
+		
+	
+
+		
+		
+	
+
+
+
+
+	
+
+
+	
+	
+
+			
+			
+	
+	 
+	
+	 
+		
+	
+		
+
+		  
+		    
+		  
+
+		  
+		    
+		    
+		  
+		
+

@@ -1,0 +1,14 @@
+
+  interface Test1 {
+	 void run();
+	 
+
+  }
+interface Test3
+{
+	void display();
+}
+interface test4
+{
+	void num();
+}

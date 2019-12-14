@@ -1,0 +1,71 @@
+package program;
+
+import java.util.Scanner;
+
+class loop{
+	 public static void main(String[]args) {
+		 Scanner sc=new Scanner(System.in);
+		 System.out.println("Enter Array size");
+		 int c=sc.nextInt();
+		 System.out.println("phone number");
+		 long number=sc.nextLong();
+
+		 System.out.println("Enter your name");
+		 String name=sc.next();
+		 //System.out.println("..............................");
+		 System.out.println("name:"+name);
+		 System.out.println("number:"+number);
+		 
+		 
+		
+			
+		
+		 }
+	 }
+	
+		   
+			 
+		  
+	 
+
+	 
+		 
+	 
+
+ 
+	
+		
+
+	
+	
+
+
+
+	 
+	 
+   
+
+
+		  
+		 
+				 
+			 
+
+
+
+		 
+		
+	
+
+		
+	
+		
+		
+
+		
+		
+
+	
+
+
+

@@ -1,0 +1,36 @@
+package javaprojects;
+
+public class Handling {
+	int a=1; int b=0;
+	
+public void doStuff()
+{  System.out.println("Atul");
+	
+	doMoreStuff();
+	System.out.println("upendra");
+	
+}
+ public void doMoreStuff()
+ {try
+ {
+	 System.out.println("division of two number is "+a/b);
+ }
+ 
+ catch(Exception e)
+ {
+	 System.out.println("aatul");s\
+ }
+	 
+ }
+public static void main(String[]args)
+{
+	Handling h=new Handling();
+	
+	h.doStuff();
+
+	System.out.println("u21ra");
+	
+	
+}
+
+}

@@ -1,0 +1,54 @@
+package program;
+class xyz{
+	public void run() {
+		System.out.println("hello word");
+	}
+}
+class loop extends xyz{ 
+	public void run() {
+		System.out.println("green world");
+	}
+	public static void main(String[]args) {
+		xyz obj=new xyz();
+		obj.run();
+	}
+	
+}
+
+ 
+	
+		
+
+	
+	
+
+
+
+	 
+	 
+   
+
+
+		  
+		 
+				 
+			 
+
+
+
+		 
+		
+	
+
+		
+		
+		
+		
+
+		
+		
+
+	
+
+
+

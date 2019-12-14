@@ -1,0 +1,48 @@
+package program;
+ class loop{
+	   public static void main(String[]args) {
+		   String a="ramu pal";
+		   System.out.println(a);
+	 }
+}
+	 
+		 
+	 
+
+ 
+	
+		
+
+	
+	
+
+
+
+	 
+	 
+   
+
+
+		  
+		 
+				 
+			 
+
+
+
+		 
+		
+	
+
+		
+	
+		
+		
+
+		
+		
+
+	
+
+
+

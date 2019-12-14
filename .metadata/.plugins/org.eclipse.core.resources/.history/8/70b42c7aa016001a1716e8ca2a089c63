@@ -1,0 +1,68 @@
+package program;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+class loop{
+	 public static void main(String[]args) {
+		int i=18;
+		int j=19;
+		if(i*2 > 50) {
+			System.out.println("I am in IF");
+		}
+		else {
+			System.out.println("I am in else");
+		}
+	 }
+			
+	}
+
+
+
+	
+		   
+			 
+		  
+	 
+
+	 
+		 
+	 
+
+ 
+	
+		
+
+	
+	
+
+
+
+	 
+	 
+   
+
+
+		  
+		 
+				 
+			 
+
+
+
+		 
+		
+	
+
+		
+	
+		
+		
+
+		
+		
+
+	
+
+
+

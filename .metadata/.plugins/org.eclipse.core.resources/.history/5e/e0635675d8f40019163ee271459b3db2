@@ -1,0 +1,38 @@
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ui.Select;
+
+public class FirstSel {
+
+	public static void main(String[] args)  {
+		WebDriver driver;
+		
+		System.setProperty("webdriver.chrome.driver", "D:\\Selenium Chrome\\chromedriver.exe");
+	
+		driver=new ChromeDriver();
+		
+		driver.get("https://www.facebook.com/");
+		driver.manage().window().maximize();
+		 
+		driver.findElement(By.name("firstname")).sendKeys("upendra ");
+		driver.findElement(By.name("lastname")).sendKeys(" pal");
+		driver.findElement(By.name("reg_email__")).sendKeys(" upendra@gmail.com");
+		driver.findElement(By.name("reg_passwd__")).sendKeys(" upendr1234");
+		driver.findElement(By.name("email")).sendKeys(" upendr1234");
+		driver.findElement(By.name("pass")).sendKeys(" 1234");
+		//driver.findElement(By.id("loginbutton")).sendKeys(" click");
+		WebElement day=driver.findElement(By.id("day"));
+		Select select=new Select(day);
+		select.selectByVisibleText("16");
+		
+		WebElement month=driver.findElement(By.className("_5dba _8esg"));
+		Select select1=new Select(month);
+		select1.selectByValue("march");
+
+
+	}
+	
+
+}

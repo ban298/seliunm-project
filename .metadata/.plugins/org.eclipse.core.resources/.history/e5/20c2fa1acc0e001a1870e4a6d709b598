@@ -1,0 +1,39 @@
+import java.util.List;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ui.Select;
+
+public class check {
+	public static void main(String[] args)  {
+		WebDriver driver;
+		
+		System.setProperty("webdriver.chrome.driver", "D:\\Selenium Chrome\\chromedriver.exe");
+	
+		driver=new ChromeDriver();
+		
+		driver.get("https://www.facebook.com/");
+		driver.manage().window().maximize();
+		 driver.findElement(By.name("firstname")).sendKeys("upendra ");
+		 driver.findElement(By.name("lastname")).sendKeys("pal ");
+		 driver.findElement(By.name("reg_email__")).sendKeys("xyz@gmail.com ");
+		 driver.findElement(By.name("reg_passwd__")).sendKeys("1234567 ");
+		// WebElement day=driver.findElement(By.name("birthday_day"));
+		 Select select=new Select(driver.findElement(By.id("day")));
+		 select.selectByIndex(16);
+		// WebElement month=driver.findElement(By.id("month"));
+		 Select select1=new Select(driver.findElement(By.id("month")));
+		 select1.selectByVisibleText("Mar");
+		// WebElement year=driver.findElement(By.name("birthday_year"));
+		Select select2=new Select(driver.findElement(By.id("year")));
+		 select2.selectByIndex(1993);
+		 WebElement feamle=driver.findElement(By.xpath("//*[@id=\"u_0_9\"]"));
+			//WebElement male=driver.findElement(By.id("u_0_7"));male.click();
+		 
+		
+		}
+		
+}
+

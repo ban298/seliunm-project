@@ -1,0 +1,18 @@
+package javaprojects;
+
+public class Const {
+
+	public  Const() {
+		System.out.println("hello ");
+		
+	}
+	
+	public Const(int x) {
+		System.out.println("hello word");
+		
+	}
+	public static void main(String[] args) {
+		Const s=new  Const();
+}
+}
+

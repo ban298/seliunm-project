@@ -1,0 +1,52 @@
+package program;
+class loop{
+	int id; 
+	String name;
+	loop( int id,String name){
+	System.out.println("hello word");	
+	}
+		public static  void main(String []args) {
+			loop a=new loop(10,"upendra pal");
+			
+			
+		
+		
+	}
+}
+ 
+	
+		
+
+	
+	
+
+
+
+	 
+	 
+   
+
+
+		  
+		 
+				 
+			 
+
+
+
+		 
+		
+	
+
+		
+		
+		
+		
+
+		
+		
+
+	
+
+
+

@@ -1,0 +1,70 @@
+package program;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+class loop{
+	 public static void main(String[]args) {
+		ArrayList<String> car=new ArrayList<String>();
+		car.add("upendra pal");
+		car.add("ramu pal");
+		car.add("monu pal");
+		car.add("rohit pal");
+		car.remove(0);
+		for(int i=0;i<car.size();i++) {
+			System.out.println(car.get(i));
+		}
+		
+		
+		
+			
+		
+		 }
+	 }
+	
+		   
+			 
+		  
+	 
+
+	 
+		 
+	 
+
+ 
+	
+		
+
+	
+	
+
+
+
+	 
+	 
+   
+
+
+		  
+		 
+				 
+			 
+
+
+
+		 
+		
+	
+
+		
+	
+		
+		
+
+		
+		
+
+	
+
+
+

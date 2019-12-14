@@ -1,0 +1,18 @@
+
+  class Test2{
+	  public static void display() {
+		  System.out.println("upendra pal");
+	  }
+	  public static void main(String[] args) {
+		Test2.display();    
+	  }  
+  }
+		
+			
+		
+	
+	  
+	  
+	 
+  
+	 

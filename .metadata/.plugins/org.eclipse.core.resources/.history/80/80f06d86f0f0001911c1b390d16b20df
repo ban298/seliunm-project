@@ -1,0 +1,18 @@
+
+ class  Test{
+	 
+ 
+	 public static void main(String[] args)  {
+	Test<String>list=new Test <String>();
+	list.add();
+	list.add();
+	
+		
+		System.out.println("list");
+		
+	}
+ 
+ 
+
+}
+ 

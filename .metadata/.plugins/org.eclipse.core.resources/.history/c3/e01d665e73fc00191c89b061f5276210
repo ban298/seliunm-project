@@ -1,0 +1,45 @@
+package javaprojects;
+
+
+import java.util.ArrayList;
+import java.util.Iterator;
+
+public class SONU {
+	public static void main(String[] args) {
+		ArrayList <String>List=new ArrayList<String>();
+		List.add("upendra pal");
+		List.add("mohit pal");
+		List.add("ramu pal");
+		List.add("mohan dash");
+		List.add("upendra");
+		List.add("mohn pal");
+		List.add("ramdash");
+		List.add("rahul pal");
+		List.add("amit pal");
+		Iterator<String> itr=List.iterator();
+		String  value=itr.next();
+		System.out.println(value);	
+
+		value=itr.next();
+		System.out.println(value);	
+
+	
+		value=itr.next();
+		System.out.println(value);	
+
+		value=itr.next();
+		System.out.println(value);
+		
+		boolean val=itr.hasNext();
+
+		System.out.println(val);
+		//while(itr.hasNext());
+		//String valn=itr.next();
+		//System.out.println(valn);
+				
+		}
+		
+
+	}
+
+

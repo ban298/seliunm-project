@@ -1,0 +1,59 @@
+package program;
+class ram{
+	public void run() {
+		System.out.println("hello word");
+	}
+	
+}
+public class loop extends ram {
+	public void run() {
+		System.out.println("green word");
+	}
+	public static void main(String[]args) {
+		ram a=new ram();
+		a.run();
+		
+	}
+	
+	
+		
+			
+			
+				
+			
+		}
+		
+
+	
+	
+
+
+
+	 
+	 
+   
+
+
+		  
+		 
+				 
+			 
+
+
+
+		 
+		
+	
+
+		
+		
+		
+		
+
+		
+		
+
+	
+
+
+

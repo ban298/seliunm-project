@@ -1,0 +1,26 @@
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class FirstSel {
+
+	public static void main(String[] args)  {
+		WebDriver driver;
+		
+		System.setProperty("webdriver.chrome.driver", "D:\\Selenium Chrome\\chromedriver.exe");
+	
+		driver=new ChromeDriver();
+		
+		driver.get("https://www.facebook.com/");
+		driver.manage().window().maximize();
+		 
+		driver.findElement(By.name("firstname")).sendKeys("upendra ");
+		driver.findElement(By.name("lastname")).sendKeys(" pal");
+		driver.findElement(By.name("reg_email__")).sendKeys(" upendra@gmail.com");
+		driver.findElement(By.name("reg_passwd__")).sendKeys(" upendr1234");
+		driver.findElement(By.name("email")).sendKeys(" upendr1234");
+		driver.findElement(By.name("pass")).sendKeys(" 1234");
+	}
+
+}

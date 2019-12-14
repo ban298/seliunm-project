@@ -1,0 +1,54 @@
+package program;
+class mohan{
+	public void run() {
+		System.out.println("hello word");
+	}
+}
+class loop extends mohan{ 
+	public void run() {
+		System.out.println("green world");
+	}
+	public static void main(String[]args) {
+		mohan obj=new mohan();
+		obj.run();
+	}
+	
+}
+
+ 
+	
+		
+
+	
+	
+
+
+
+	 
+	 
+   
+
+
+		  
+		 
+				 
+			 
+
+
+
+		 
+		
+	
+
+		
+		
+		
+		
+
+		
+		
+
+	
+
+
+

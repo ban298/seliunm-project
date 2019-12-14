@@ -1,0 +1,52 @@
+
+public class mohan {
+void display(){
+	System.out.println("hello word");
+}
+}
+class ram extends mohan{
+	void add() {
+		System.out.println("upendra pal");
+	}
+}
+class sonu extends mohan{
+	void num() {
+		System.out.println("arun pal");
+	}
+}
+		class vimal {
+		public static void main(String[] args) {
+			ram s1=new ram();
+			sonu s2=new sonu();
+			s1.display();
+			s1.add();
+			s2.num();
+		}
+	}
+
+	
+
+
+	
+	
+
+			
+			
+	
+	 
+	
+	 
+		
+	
+		
+
+		  
+		    
+		  
+
+		  
+		    
+		    
+		  
+		
+

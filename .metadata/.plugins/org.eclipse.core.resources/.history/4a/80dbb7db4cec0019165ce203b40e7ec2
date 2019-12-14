@@ -1,0 +1,24 @@
+
+  class Test2{
+	  int id;
+	  
+	  void display (){
+		  System.out.println(1);  
+	  }  
+	  
+		
+			
+		
+	
+	  
+	  
+	  public static void main(String[] args)
+	  {
+		  
+		 Test2 t=new Test2();
+		 t.display();
+	  }
+	  
+  }
+  
+	 

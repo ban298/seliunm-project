@@ -1,0 +1,39 @@
+
+public class mohan {
+	
+	public static void main(String[] args) {
+		String[][] car= {{"upendra","rajpal","mohan"},{"mohandash","suresh","ramgopal"}};
+		for(int i=1;i<car.length;i++)
+			for(int j=0;j<car.length;j++)
+		System.out.println(car.clone()[i][j]);
+	}
+}
+
+
+
+	
+
+
+	
+	
+
+			
+			
+	
+	 
+	
+	 
+		
+	
+		
+
+		  
+		    
+		  
+
+		  
+		    
+		    
+		  
+		
+

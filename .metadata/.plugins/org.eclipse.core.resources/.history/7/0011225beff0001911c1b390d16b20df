@@ -1,0 +1,23 @@
+
+ class ram {
+	
+	public  void display(){
+		
+		System.out.println("hello word");
+		
+	}
+ }
+	class Test extends ram{
+		void show() {
+			System.out.println("green world");
+		}
+	
+	
+	public static void main(String[] args)  {
+		Test s=new Test();
+			s.display();
+			
+	
+}
+}
+ 

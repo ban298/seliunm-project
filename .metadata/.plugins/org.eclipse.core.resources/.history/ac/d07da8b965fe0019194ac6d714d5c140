@@ -1,0 +1,25 @@
+package javaprojects;
+
+public class Handling {
+	int a=1; int b=0;
+	
+public void doStuff()
+{
+h.doMoreStuff();
+	
+}
+ public void doMoreStuff()
+ {
+	 System.out.println("division of two number is "+a/b);
+	 
+ }
+public static void main(String[]args)
+{
+	Handling h=new Handling();
+	
+	h.doStuff();
+	
+	
+}
+
+}

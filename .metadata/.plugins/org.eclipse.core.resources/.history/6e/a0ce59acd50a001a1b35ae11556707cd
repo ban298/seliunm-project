@@ -1,0 +1,77 @@
+package program;
+ class loop{
+	 public static void main(String[]args) {
+	 String year="feburay";
+	 switch(year){
+	 
+	 case" jaunbray":
+	 System.out.println("1");
+	 break;
+	 case "farubery":
+		 System.out.println("2");
+		 
+	// case 3:
+		// System.out.println("thusday");
+		// break;
+	// case 4:
+		// System.out.println("wensday");
+		// break;
+	// case 5:
+		// System.out.println("thursday");
+		// break;
+	// case 6:
+		// System.out.println("firday");
+		// break;
+	// case 7:
+		// System.out.println("sutrday");
+		 break;
+		 default:
+			 System.out.println("complete week days");
+	 }
+	
+		   
+			 
+		  
+	 }
+}
+	 
+		 
+	 
+
+ 
+	
+		
+
+	
+	
+
+
+
+	 
+	 
+   
+
+
+		  
+		 
+				 
+			 
+
+
+
+		 
+		
+	
+
+		
+	
+		
+		
+
+		
+		
+
+	
+
+
+

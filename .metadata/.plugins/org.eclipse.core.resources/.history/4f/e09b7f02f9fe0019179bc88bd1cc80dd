@@ -1,0 +1,20 @@
+package javaprojects;
+
+public class Handling {
+	
+
+
+	
+	public static void main(String[]args) {
+		int[]a=new int[2];
+		for(int i=1;i<a.length;i++) {
+		
+		a[0]=35;
+		a[1]=36;
+		a[2]=37;
+		a[3]=38;
+		a[4]=39;
+		System .out.println(a[i]);
+}
+}
+}

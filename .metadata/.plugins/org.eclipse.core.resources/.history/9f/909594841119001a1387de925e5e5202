@@ -1,0 +1,70 @@
+package program;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+class loop{
+	 public static void main(String[]args) {
+int i=5;
+int j=4;
+if((i*2< 4*2)&&(i<j)){
+	System.out.println("good evening");
+	
+}else {
+	System.out.println("good day");
+}
+		
+		
+	 }
+}		
+	
+
+
+
+	
+		   
+			 
+		  
+	 
+
+	 
+		 
+	 
+
+ 
+	
+		
+
+	
+	
+
+
+
+	 
+	 
+   
+
+
+		  
+		 
+				 
+			 
+
+
+
+		 
+		
+	
+
+		
+	
+		
+		
+
+		
+		
+
+	
+
+
+

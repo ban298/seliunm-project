@@ -1,0 +1,63 @@
+
+ class mohan {
+	 public static void main(String[] args) {
+	int time =18;
+	if(time< 34) {
+		System.out.println("good evening");	
+	}else {
+	
+	 System.out.println("good day");	
+	}
+	 }}
+
+		
+	
+	
+
+
+
+		
+
+
+	
+	
+	
+		
+		
+		
+		
+	
+
+		
+		
+	
+
+
+
+
+	
+
+
+	
+	
+
+			
+			
+	
+	 
+	
+	 
+		
+	
+		
+
+		  
+		    
+		  
+
+		  
+		    
+		    
+		  
+		
+

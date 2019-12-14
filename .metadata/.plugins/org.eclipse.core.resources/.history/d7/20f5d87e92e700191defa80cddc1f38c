@@ -1,0 +1,38 @@
+
+public class mohan {
+void display(){
+	
+
+	System.out.println("hello word");
+}
+}
+	class ram  extends mohan{
+		void add() {
+			System.out.println("mohandash");
+		}
+	}
+			class MyMainClass {
+			 public static void main(String[] args) {
+				 ram s1=new ram();
+				 s1.display();
+				 s1.add();
+			 }
+		}
+	
+	 
+	
+	 
+		
+	
+		
+
+		  
+		    
+		  
+
+		  
+		    
+		    
+		  
+		
+

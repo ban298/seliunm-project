@@ -1,0 +1,71 @@
+package program;
+class loop{
+	int x=5;
+	loop(){
+		System .out.println("hello word");
+	}
+	loop(int x){
+		
+		System.out.println("green word"+x);
+		
+	}
+	loop(String x, String y){
+		System.out.println("red word");
+	}
+	loop(int x, int y){
+		System.out.println("ram word");
+		
+	}
+	loop(int x, String y){
+		System.out.println("shyam word");
+		
+	}
+	loop( String x, int y){
+		System.out.println("rahul word");
+	}
+	public static void main (String []args) {
+		loop a=new loop();
+		loop a1=new loop(5);
+		loop a2=new loop("uopendra pal","ramu pal");
+		loop a3=new loop(10,30);
+		loop a4= new loop(10,"mohan pal");
+		loop a5=new loop("sonu",10);
+	}
+}
+ 
+	
+		
+
+	
+	
+
+
+
+	 
+	 
+   
+
+
+		  
+		 
+				 
+			 
+
+
+
+		 
+		
+	
+
+		
+		
+		
+		
+
+		
+		
+
+	
+
+
+

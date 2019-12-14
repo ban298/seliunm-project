@@ -1,0 +1,7 @@
+
+  interface Test1 {
+	 void run();
+
+
+  }
+  

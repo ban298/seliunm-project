@@ -1,0 +1,60 @@
+package program;
+
+public class loop {
+	void add(){
+	System.out.println("no parametrs");	
+	}
+	void add(int x) {
+		System.out.println("parametrized"+x);
+	}
+	void add(int x, int y) {
+		System.out.println("2 parametrs"+x+"and"+ +y);
+		
+	}
+	
+	public static void main(String[]args) {
+		loop a=new loop();
+		a.add();
+		a.add(10);
+		a.add(10,20);
+		
+			
+			
+				
+			}
+		}
+		
+
+	
+	
+
+
+
+	 
+	 
+   
+
+
+		  
+		 
+				 
+			 
+
+
+
+		 
+		
+	
+
+		
+		
+		
+		
+
+		
+		
+
+	
+
+
+

@@ -1,0 +1,77 @@
+
+  class mohan{
+	public void display(String b) {
+		 System.out.println(4);
+	 }
+ 
+ 
+	public void display( int a ){
+		 System.out.println("2"); 
+	 }
+ 
+ 
+	
+	 
+ 
+	 public static void main(String[] args) {
+	
+	mohan s1=new mohan ();
+
+	s1.display("upendra");
+	
+	
+			
+	}
+	 }
+
+		
+	
+	
+
+
+
+		
+
+
+	
+	
+	
+		
+		
+		
+		
+	
+
+		
+		
+	
+
+
+
+
+	
+
+
+	
+	
+
+			
+			
+	
+	 
+	
+	 
+		
+	
+		
+
+		  
+		    
+		  
+
+		  
+		    
+		    
+		  
+		
+

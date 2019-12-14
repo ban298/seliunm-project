@@ -1,0 +1,22 @@
+
+ class  Test{
+	public static void main (String[] args ) {
+	String[] s= {"velovo","upendra","ram"};
+	
+		
+			System.out.println(s);
+		
+		
+		
+	
+	
+	
+	 
+	
+	}
+ }
+ 
+ 
+
+
+ 

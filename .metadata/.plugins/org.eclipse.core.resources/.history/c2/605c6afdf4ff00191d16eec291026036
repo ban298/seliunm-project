@@ -1,0 +1,45 @@
+package program;
+
+public class loop { 
+	static void run(int age) { 
+	    if (age < 18) {
+	      throw new ArithmeticException(); 
+	    } else {
+	      System.out.println("not valid vote"); 
+	    }
+	 } 
+	 
+	 public static void main(String[] args) {
+		// try {
+	   run(16); 
+		 
+		 //( ArithmeticException e) {
+			//System.out.println("error handling"); 
+		// }
+		 System.out.println("sucessfull");
+   }
+}
+
+		  
+		 
+				 
+			 
+
+
+
+		 
+		
+	
+
+		
+		
+		
+		
+
+		
+		
+
+	
+
+
+

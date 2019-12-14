@@ -1,0 +1,37 @@
+package javaprojects;
+
+
+import java.util.ArrayList;
+import java.util.Iterator;
+
+public class SONU {
+	public static void main(String[] args) {
+		ArrayList <Integer>List=new ArrayList<Integer>();
+		List.add(1234);
+		List.add(70653);
+		List.add(56789);
+		List.add(345678);
+		List.add(657895);
+		List.add(6789654);
+		List.add(67895);
+		List.add(5678954);
+		List.add(678954321);
+		Iterator<Integer> itr=List.iterator();
+		Integer value=itr.next();
+		System.out.println(value);
+		value=itr.next();
+		System.out.println(value);
+		
+boolean val=itr.hasNext();
+System.out.println(val);
+		//while(itr.hasNext()) {
+		//Integer valn=itr.next();
+		//System.out.println(valn);
+				
+		}
+		
+
+	}
+
+
+

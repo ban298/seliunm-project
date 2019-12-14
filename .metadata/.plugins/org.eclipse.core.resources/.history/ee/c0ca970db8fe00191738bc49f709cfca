@@ -1,0 +1,13 @@
+package javaprojects;
+
+public class Handling {
+	
+public static void main(String[]args)
+{
+	int[] a=new int[4];
+	System.out.println(a);
+	a[0]=35;
+	
+}
+
+}

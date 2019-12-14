@@ -1,0 +1,76 @@
+
+  class sonu{
+	public void display() {
+		 System.out.println("hello word");
+	 }
+ class mohan extends sonu{
+	 void add() {
+		 System.out.println("green word"); 
+	 }
+ }
+	 public static void main(String[] args) {
+ sonu s1=new sonu();
+ s1.display();
+ 
+ 
+	
+	 
+	
+	
+	
+			
+	}
+	 }
+  
+
+		
+	
+	
+
+
+
+		
+
+
+	
+	
+	
+		
+		
+		
+		
+	
+
+		
+		
+	
+
+
+
+
+	
+
+
+	
+	
+
+			
+			
+	
+	 
+	
+	 
+		
+	
+		
+
+		  
+		    
+		  
+
+		  
+		    
+		    
+		  
+		
+

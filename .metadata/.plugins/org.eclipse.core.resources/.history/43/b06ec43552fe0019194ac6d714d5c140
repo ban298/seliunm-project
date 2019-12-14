@@ -1,0 +1,24 @@
+package javaprojects;
+
+public class Handling {
+	
+	public static void main(String[]args) {
+	int [] mynumber= {1,2,3};
+	
+	
+	
+	
+	try {
+		System.out.println(mynumber[10]);
+		
+	}
+		/*
+		 * catch(Exception e){ System.out.println("Execption handling"); }
+		 */
+	finally {
+		System.out.println(" try finshed");
+	}
+	
+	
+}
+}

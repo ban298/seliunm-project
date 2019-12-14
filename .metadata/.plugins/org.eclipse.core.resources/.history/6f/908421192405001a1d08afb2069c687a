@@ -1,0 +1,21 @@
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class automation {
+	public static void main(String[] args)  {
+		WebDriver driver;
+		
+		System.setProperty("webdriver.chrome.driver", "D:\\Selenium Chrome\\chromedriver.exe");
+	
+		driver=new ChromeDriver();
+		
+		driver.get("http://www.seoxprts.com/");
+		driver.manage().window().maximize();
+		driver.findElement(By.name("name")).sendKeys("upendra pal");
+		driver.findElement(By.id("memail")).sendKeys("abc@gmail.com");
+		driver.findElement(By.id("subject")).sendKeys("i am upendra pal i am noida");
+		driver.findElement(By.name("message")).sendKeys("upendra pal kumar  i am noida i am also fine upendra pal noida i call you latter");
+		driver.findElement(By.id("submit2")).sendKeys(" click");
+}
+}

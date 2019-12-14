@@ -1,0 +1,29 @@
+package javaprojects;
+
+public class Const {
+
+	public  Const() {
+		System.out.println("hello ");
+		
+	}
+	
+	public Const(int x) {
+		System.out.println("hello word");
+		
+	}
+	public Const(int x,String y) {
+		System.out.println("popup word");
+		
+	}
+	public Const(int x,int y) {
+		System.out.println("popup word");
+		
+	}
+	public static void main(String[] args) {
+		Const s=new  Const();
+		Const s1=new  Const(6,"popup");
+		Const s2=new  Const(5,12);
+		
+}
+}
+

@@ -1,0 +1,81 @@
+
+  class ram{
+ void display() {
+		 System.out.println("hello word");
+	 }
+  }
+ class mohan extends ram{
+	 void add() {
+		 System.out.println("green word"); 
+	 }
+		 public static void main(String [] args) {
+		  ram s1=new ram();
+		 s1.display();
+		 mohan s2=new mohan();
+		 s2.add();
+	
+ 
+ 
+	
+	 
+	
+	
+	
+			
+	}
+	 }
+  
+  
+  
+
+		
+	
+	
+
+
+
+		
+
+
+	
+	
+	
+		
+		
+		
+		
+	
+
+		
+		
+	
+
+
+
+
+	
+
+
+	
+	
+
+			
+			
+	
+	 
+	
+	 
+		
+	
+		
+
+		  
+		    
+		  
+
+		  
+		    
+		    
+		  
+		
+

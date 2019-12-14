@@ -1,0 +1,15 @@
+package javaprojects;
+
+public class Handling {
+	
+
+
+	public void run() {
+		System.out.println("hello word");
+	}
+	public static void main(String[]args)
+	{
+		Handling a= new Handling();
+		a.run();
+}
+}

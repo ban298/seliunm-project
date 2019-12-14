@@ -1,0 +1,59 @@
+package program;
+import java.lang.String;
+class Updesh{
+	public void run() {
+	System.out.println("hello word");
+}
+}
+class Papa extends Updesh{
+	public void num() {
+		System.out.println("green word");
+	}
+	public static void main(String[]args){	
+		Papa a=new Papa();
+		Papa a1=new Papa();
+	a.num();
+	//a1.run();
+		
+	}
+}
+	 
+		 
+	 
+
+ 
+	
+		
+	
+	
+
+
+
+	 
+	 
+   
+
+
+		  
+		 
+				 
+			 
+
+
+
+		 
+		
+	
+
+		
+	
+		
+		
+
+		
+		
+
+	
+
+
+

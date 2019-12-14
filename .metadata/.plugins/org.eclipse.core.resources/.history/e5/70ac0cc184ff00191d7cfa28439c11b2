@@ -1,0 +1,11 @@
+package program;
+
+public class loop {
+	public static void main (String[]args) {
+		String[]  a= {"upendra pal","mohanpal","ramu pal"};
+		for(String i:a) 
+			System.out.println(i);
+	}
+
+}
+

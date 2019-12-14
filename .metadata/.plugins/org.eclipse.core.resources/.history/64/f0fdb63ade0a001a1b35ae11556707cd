@@ -1,0 +1,55 @@
+package program;
+ class loop{
+	 public static void main(String[]args) {
+		 String txt = "ABCDEFHGHJ";
+		    System.out.println("  string : " + txt.length());
+		   // System.out.println(txt.toUpperCase());
+		  //  System.out.println(txt.toLowerCase());
+	 }
+	
+		   
+			 
+		  
+	 }
+
+	 
+		 
+	 
+
+ 
+	
+		
+
+	
+	
+
+
+
+	 
+	 
+   
+
+
+		  
+		 
+				 
+			 
+
+
+
+		 
+		
+	
+
+		
+	
+		
+		
+
+		
+		
+
+	
+
+
+

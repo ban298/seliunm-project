@@ -1,0 +1,19 @@
+package javaprojects;
+
+public class Handling {
+	
+
+
+	public void run() {
+		System.out.println("hello word");
+	}
+	public  void  num() {
+		System.out.println("helllo ram");
+	}
+	public static void main(String[]args)
+	{
+		Handling a= new Handling();
+		a.run();
+		a.num();
+}
+}

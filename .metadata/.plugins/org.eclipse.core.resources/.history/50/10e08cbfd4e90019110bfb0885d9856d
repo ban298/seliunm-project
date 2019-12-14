@@ -1,0 +1,80 @@
+
+  class mohan{
+	public void display(String b,int a) {
+		 System.out.println(4);
+	 }
+ 
+ 
+	public void display( int a,float b ){
+		 System.out.println("object method"); 
+	 }
+ 
+	public void display(float b,int a){
+		 System.out.println("String method"); 
+	 }
+
+	
+	 
+ 
+	 public static void main(String[] args) {
+	
+	mohan s1=new mohan ();
+
+	s1.display(10 ,20.5f);
+	s1.display(25.5f,10);
+	
+			
+	}
+	 }
+
+		
+	
+	
+
+
+
+		
+
+
+	
+	
+	
+		
+		
+		
+		
+	
+
+		
+		
+	
+
+
+
+
+	
+
+
+	
+	
+
+			
+			
+	
+	 
+	
+	 
+		
+	
+		
+
+		  
+		    
+		  
+
+		  
+		    
+		    
+		  
+		
+

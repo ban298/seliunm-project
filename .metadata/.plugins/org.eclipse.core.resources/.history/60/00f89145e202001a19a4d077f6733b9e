@@ -1,0 +1,52 @@
+package program;
+class loop{
+	 String  fname() {
+		  String r="upendra pal";
+		  
+		
+		return r;
+		
+	}
+	public static void main(String[]args) {
+		loop obj=new loop();
+		System.out.println(obj.fname());
+		
+	}
+}
+ 
+	
+		
+
+	
+	
+
+
+
+	 
+	 
+   
+
+
+		  
+		 
+				 
+			 
+
+
+
+		 
+		
+	
+
+		
+	
+		
+		
+
+		
+		
+
+	
+
+
+

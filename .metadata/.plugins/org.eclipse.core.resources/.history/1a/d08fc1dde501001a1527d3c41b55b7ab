@@ -1,0 +1,39 @@
+package program;
+
+public class loop { 
+	public static void main(String[]args) {
+		String[] a= {"upendra pal","ramu pal","mohan pal","ramu pal"};
+		for(String i:a) {
+		System.out.println(i);
+	
+	}
+}
+}
+	 
+	 
+   
+
+
+		  
+		 
+				 
+			 
+
+
+
+		 
+		
+	
+
+		
+		
+		
+		
+
+		
+		
+
+	
+
+
+

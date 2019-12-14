@@ -1,0 +1,69 @@
+package program;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+class loop{
+	 public static void main(String[]args) {
+int i=10;
+int j=23;
+if((i*2> 3*9)||(i>j)) {
+	System.out.println("good day");
+}else {
+	System.out.println("good evening");
+}
+		
+		
+	 }
+}		
+	
+
+
+
+	
+		   
+			 
+		  
+	 
+
+	 
+		 
+	 
+
+ 
+	
+		
+
+	
+	
+
+
+
+	 
+	 
+   
+
+
+		  
+		 
+				 
+			 
+
+
+
+		 
+		
+	
+
+		
+	
+		
+		
+
+		
+		
+
+	
+
+
+

@@ -1,0 +1,86 @@
+package program;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+class loop{
+	 public void loop() {
+		System.out.println("hello word");
+	}
+	 public void loop(int x,int y) {
+		 System.out.println("green word");
+	 }
+	 public void loop(String c,int z) {
+		 System.out.println("home word");
+	 }
+	 int loop(int h) {
+		 System.out.println("real word");
+		 return 10;
+		 
+		 
+	 }
+
+	 public static void main(String[]args) {
+		 loop a1=new loop();
+		 a1.loop();
+		 a1.loop(10,12);
+		 a1.loop("upendra",12);
+		 a1.loop(10);
+		 
+		
+
+		
+		
+	 }
+}		
+	
+
+
+
+
+	
+		   
+			 
+		  
+	 
+
+	 
+		 
+	 
+
+ 
+	
+		
+
+	
+	
+
+
+
+	 
+	 
+   
+
+
+		  
+		 
+				 
+			 
+
+
+
+		 
+		
+	
+
+		
+	
+		
+		
+
+		
+		
+
+	
+
+
+

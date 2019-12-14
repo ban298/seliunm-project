@@ -1,0 +1,16 @@
+package program;
+
+public class loop {
+	public static void main (String[]args) {
+		int age= 9 ;
+		if(age <18) {
+		System.out.println("young");
+		}else 
+		System.out.println("boys");	
+		
+		}
+		}
+	
+
+
+

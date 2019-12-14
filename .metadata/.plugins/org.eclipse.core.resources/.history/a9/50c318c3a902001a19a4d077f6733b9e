@@ -1,0 +1,46 @@
+package program;
+class loop{
+	loop(){
+		System .out.println("hello word");
+	}
+	public static void main (String []args) {
+		loop a=new loop();
+	}
+}
+ 
+	
+		
+
+	
+	
+
+
+
+	 
+	 
+   
+
+
+		  
+		 
+				 
+			 
+
+
+
+		 
+		
+	
+
+		
+		
+		
+		
+
+		
+		
+
+	
+
+
+

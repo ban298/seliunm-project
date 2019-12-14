@@ -1,0 +1,66 @@
+package program;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+class loop{
+	 public static void main(String[]args) {
+String[] age= {"upendra pal","ramupal","monupal","sonupal","mohitpal"};
+for(int i=age.length-1;i>0;i--) {
+	System.out.println(i);
+}
+		
+		
+	 }
+}		
+	
+
+
+
+	
+		   
+			 
+		  
+	 
+
+	 
+		 
+	 
+
+ 
+	
+		
+
+	
+	
+
+
+
+	 
+	 
+   
+
+
+		  
+		 
+				 
+			 
+
+
+
+		 
+		
+	
+
+		
+	
+		
+		
+
+		
+		
+
+	
+
+
+

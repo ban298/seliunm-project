@@ -1,0 +1,30 @@
+import java.util.List;
+
+import javax.lang.model.element.Element;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.ui.Select;
+
+public class automation {
+	public static void main(String[] args)  {
+		WebDriver driver;
+		
+		System.setProperty("webdriver.chrome.driver", "D:\\Selenium Chrome\\chromedriver.exe");
+	
+		driver=new ChromeDriver();
+		
+		driver.get("https://www.facebook.com/");
+		driver.manage().window().maximize();
+		 ((WebElement) driver.findElements(By.xpath("//*[@id=\"u_0_n\"]"))).sendKeys("upendra pal");
+		 driver.close();
+		 driver.quit();
+		 
+		
+		
+		
+		
+}
+}

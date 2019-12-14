@@ -1,0 +1,14 @@
+package programe;
+
+interface ram {
+public void run();
+}
+class mohan implements ram{
+	public void run() {
+		System.out.println("hello word");
+	}
+	public  static void main(String[]args) {
+		mohan a=new mohan();
+		a.run();
+	}
+}

@@ -1,0 +1,82 @@
+
+  class ram{
+ void display(  ) {
+		 System.out.println("upendra");
+	 }
+  }
+ class mohan extends ram{
+	 void add(  ) {
+		 System.out.println("arun pal"); 
+	 }
+		 public static void main(String [] args) {
+		  ram s1=new ram();
+		 s1.display();
+		 
+		mohan s2=new mohan();
+		s2.add();
+	
+ 
+ 
+	
+	 
+	
+	
+	
+			
+	}
+	 }
+  
+  
+  
+
+		
+	
+	
+
+
+
+		
+
+
+	
+	
+	
+		
+		
+		
+		
+	
+
+		
+		
+	
+
+
+
+
+	
+
+
+	
+	
+
+			
+			
+	
+	 
+	
+	 
+		
+	
+		
+
+		  
+		    
+		  
+
+		  
+		    
+		    
+		  
+		
+

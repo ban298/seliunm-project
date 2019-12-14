@@ -1,0 +1,76 @@
+package program;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+class loop{
+	 public void loop() {
+		System.out.println("hello word");
+	}
+public void loop(int x) {
+	System.out.println("green word");
+}
+public void loop(String x) {
+	System.out.println("green word");
+}
+	 public static void main(String[]args) {
+		 loop a1=new loop();
+		 a1.loop();
+		 a1.loop(1);
+		 a1.loop("upendra");
+
+		
+		
+	 }
+}		
+	
+
+
+
+
+	
+		   
+			 
+		  
+	 
+
+	 
+		 
+	 
+
+ 
+	
+		
+
+	
+	
+
+
+
+	 
+	 
+   
+
+
+		  
+		 
+				 
+			 
+
+
+
+		 
+		
+	
+
+		
+	
+		
+		
+
+		
+		
+
+	
+
+
+

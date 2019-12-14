@@ -1,0 +1,64 @@
+package program;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+class loop{
+	 public static void main(String[]args) {
+		int[]num= {1,2,3,4,5,6};
+		int a=num.length;
+		//int revs;
+		for(int i=a;i>=0;i--) {
+			System.out.println(i);
+		}
+	}
+}
+
+
+	
+		   
+			 
+		  
+	 
+
+	 
+		 
+	 
+
+ 
+	
+		
+
+	
+	
+
+
+
+	 
+	 
+   
+
+
+		  
+		 
+				 
+			 
+
+
+
+		 
+		
+	
+
+		
+	
+		
+		
+
+		
+		
+
+	
+
+
+

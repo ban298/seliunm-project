@@ -1,0 +1,29 @@
+package program;
+
+public class loop {
+	public static void main (String[]args) {
+		int marks= 80;
+		if(60>80) {
+			System.out.println("first job");
+			
+		}else {
+			if(40>60) {
+				System.out.println("second nice");
+			}else {
+					System.out.println("fail job");
+				}
+			}
+		}
+	}
+		
+		
+		
+		
+
+		
+		
+
+	
+
+
+

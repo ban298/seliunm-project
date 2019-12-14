@@ -1,0 +1,28 @@
+package program;
+
+public class loop {
+	public static void main (String[]args) {
+		if(7<6) {
+			System.out.println("good job");
+			
+		}else {
+			if(7<5) {
+				System.out.println("good nice");
+			}else {
+					System.out.println("nice job");
+				}
+			}
+		}
+	}
+		
+		
+		
+		
+
+		
+		
+
+	
+
+
+

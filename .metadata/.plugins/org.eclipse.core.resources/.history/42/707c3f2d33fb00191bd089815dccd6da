@@ -1,0 +1,32 @@
+package javaprojects;
+
+
+import java.util.ArrayList;
+
+public class SONU {
+	public static void main(String[] args) {
+		ArrayList List=new ArrayList();
+		List.add(34.6f);
+		List.add(35);
+		List.add(33);
+		List.add("mohan");
+		List.add("upendra");
+		List.add("mohn pal");
+		List.add("ramdash");
+		List.add(28.6f);
+		List.add("amit pal");
+		for(int i=1;i<List.size();i++)
+			
+
+		
+	
+	
+		
+			
+			System.out.println(List.get(i));	
+		}
+		
+
+	}
+
+

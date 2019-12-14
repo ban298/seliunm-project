@@ -1,0 +1,56 @@
+package program;
+class loop{
+	 String  fname(String x,String y) {
+		 
+		  
+		
+		return x+y;
+		
+	}
+	 int add(int a,int b) {
+		 return a+b;
+		 
+	 }
+	public static void main(String[]args) {
+		loop obj=new loop();
+		System.out.println(obj.fname("rahul","sonu pal"));
+		System.out.println(obj.add(10,10));
+	}
+}
+ 
+	
+		
+
+	
+	
+
+
+
+	 
+	 
+   
+
+
+		  
+		 
+				 
+			 
+
+
+
+		 
+		
+	
+
+		
+	
+		
+		
+
+		
+		
+
+	
+
+
+

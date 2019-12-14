@@ -1,0 +1,10 @@
+
+  interface Test1 {
+	 void run();
+	 
+
+  }
+interface Test3
+{
+	void display();
+}

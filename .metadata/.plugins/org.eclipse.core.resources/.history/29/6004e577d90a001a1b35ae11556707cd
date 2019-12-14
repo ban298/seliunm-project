@@ -1,0 +1,68 @@
+package program;
+ class loop{
+	 public static void main(String[]args) {
+	 String year="January";
+	 switch(year){
+	 
+	 case "January":
+	 case "February ":
+	 case "March":
+	 System.out.println("shardi");
+	 break;
+	 case "April ":
+	 case "may":
+	 case "june":
+		 System.out.println("grami");
+		 break;
+		 
+	
+		 default:
+			 System.out.println("full year complete");
+	 }
+	
+		   
+			 
+		  
+	 }
+}
+	 
+		 
+	 
+
+ 
+	
+		
+
+	
+	
+
+
+
+	 
+	 
+   
+
+
+		  
+		 
+				 
+			 
+
+
+
+		 
+		
+	
+
+		
+	
+		
+		
+
+		
+		
+
+	
+
+
+

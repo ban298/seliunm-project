@@ -1,0 +1,57 @@
+package program;
+ class loop{
+	 public static void main(String[]args) {
+		 String txt = "Please locate where 'locate' occurs!";
+		    //System.out.println("  string : " + txt.length());
+		   // System.out.println(txt.toUpperCase());
+		  //  System.out.println(txt.toLowerCase());
+		// System.out.println("count :"+txt.length());
+		 System.out.println(txt.indexOf("locate"));
+	 }
+	
+		   
+			 
+		  
+	 }
+
+	 
+		 
+	 
+
+ 
+	
+		
+
+	
+	
+
+
+
+	 
+	 
+   
+
+
+		  
+		 
+				 
+			 
+
+
+
+		 
+		
+	
+
+		
+	
+		
+		
+
+		
+		
+
+	
+
+
+

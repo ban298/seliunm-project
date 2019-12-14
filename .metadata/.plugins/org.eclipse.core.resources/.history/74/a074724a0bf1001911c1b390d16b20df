@@ -1,0 +1,22 @@
+
+ class  Test{
+	public static void main (String[] args ) {
+	String name;	
+	
+		
+			System.out.println("good day");
+		
+		
+		
+	
+	
+	
+	 
+	
+	}
+ }
+ 
+ 
+
+
+ 

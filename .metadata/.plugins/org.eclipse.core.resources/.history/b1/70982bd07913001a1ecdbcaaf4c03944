@@ -1,0 +1,36 @@
+import java.util.List;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.support.ui.Select;
+
+public class check {
+	public static void main(String[] args)  {
+		WebDriver driver;
+		
+		System.setProperty("webdriver.chrome.driver", "D:\\Selenium Chrome\\chromedriver.exe");
+	
+		driver=new ChromeDriver();
+		
+driver.get("https://www.vcsdata.com/advance_search.php");
+driver.manage().window().maximize();
+Select as=new Select(driver.findElement(By.id("select2-chosen-1")));
+as.selectByVisibleText("Agra");
+		
+		
+	}
+
+	
+		
+	}
+
+		
+	
+	
+		
+
+

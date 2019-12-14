@@ -1,0 +1,55 @@
+package program;
+
+public class loop { 
+	public static void main(String[]args) {
+		int time =18;
+		if(time<18) {
+			System.out.println(" valid vote");
+		}else {
+				System.out.println("not valid vaote");
+			}
+		if(time<10){
+			System.out.println("not complete vote");
+		}else {
+				System.out.println("half voting");
+			}
+			
+			
+				
+			}
+		}
+		
+
+	
+	
+
+
+
+	 
+	 
+   
+
+
+		  
+		 
+				 
+			 
+
+
+
+		 
+		
+	
+
+		
+		
+		
+		
+
+		
+		
+
+	
+
+
+

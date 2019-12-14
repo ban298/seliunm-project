@@ -1,0 +1,52 @@
+package program;
+class loop{
+	 String  fname(String x,String y) {
+		 
+		  
+		
+		return x+y;
+		
+	}
+	public static void main(String[]args) {
+		loop obj=new loop();
+		System.out.println(obj.fname("rahul","sonu pal"));
+		
+	}
+}
+ 
+	
+		
+
+	
+	
+
+
+
+	 
+	 
+   
+
+
+		  
+		 
+				 
+			 
+
+
+
+		 
+		
+	
+
+		
+	
+		
+		
+
+		
+		
+
+	
+
+
+

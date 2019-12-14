@@ -1,0 +1,59 @@
+package program;
+ class sohan{
+	  final public void run() {
+		 System.out.println("ram");
+	 }
+}
+class loop extends sohan{
+	public void run() {
+		System.out.println("green word");
+	}
+	 public static void main(String[]args) {
+		 loop a1=new loop();
+		 sohan a=new sohan();
+		 a1.num();
+		 a.run();
+		 
+	 }
+}
+	 
+		 
+	 
+
+ 
+	
+		
+
+	
+	
+
+
+
+	 
+	 
+   
+
+
+		  
+		 
+				 
+			 
+
+
+
+		 
+		
+	
+
+		
+	
+		
+		
+
+		
+		
+
+	
+
+
+
